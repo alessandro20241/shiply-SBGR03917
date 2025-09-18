@@ -1,0 +1,43 @@
+{
+  "SBGR03917": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Marco Pellegrini, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Ryan Goni Jimenez, Calle San Bartolome 21 7A, 20007 San Sebastian, Niederlande",
+    "price": "7.150 €",
+    "description": "Hersteller: BMW<br>Typ: R 1200 GS Rallye <br>Fahrgestelnummer: WB10A5103HZ626736 <br>Erstzulassung: 05/2017 <br>KM laut Vorbesitzer: 65.533 km <br>Leistung: 92 kW (125 PS) <br>Fahrzeughalter: 2<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Ryan Goni Jimenez<br>Calle San Bartolome 21 7A<br>20007 San Sebastian<br>Spanien<br>Telefon: +34 629609330",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "18-09-2025",
+    "deliveryDate": "26-09-2025",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Calle San Bartolome 21 7A",
+      "postal_code": "20007",
+      "city": "San Sebastian",
+      "country": "Spanien"
+    }
+  }
+}
